@@ -1,0 +1,601 @@
+review_id,customer_id,review_date,product_category,product_name,rating,review_title,review_text,sentiment,verified_purchase
+REV0001,C1174,2025-04-15,Electronics,Smart Watch,4,Issue with product,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0002,C1007,2026-09-09,Beauty,Face Moisturizer,4,Satisfied,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0003,C1088,2026-03-09,Beauty,Face Moisturizer,4,Review,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0004,C1092,2025-04-10,Home,Air Fryer,3,Everyday use,Packaging was fine. I have not used it enough to judge.,neutral,No
+REV0005,C1076,2026-07-20,Fashion,Running Shoes,3,Everyday use,It does the basic job without any extra benefits.,neutral,No
+REV0006,C1026,2025-08-27,Home,Air Fryer,2,Could be better,Very disappointing quality. It stopped working after two days.,negative,No
+REV0007,C1172,2025-08-03,Books,Programming Book,2,Review,Uncomfortable to use and the material feels cheap.,negative,Yes
+REV0008,C1164,2025-10-04,Home,Mixer Grinder,2,Issue with product,Customer support did not respond to my complaint.,negative,Yes
+REV0009,C1069,2026-02-15,Fashion,Backpack,3,Worth it,The product is okay and works as expected.,neutral,Yes
+REV0010,C1036,2025-09-29,Fashion,Backpack,5,My experience,"Comfortable, useful, and worth the price.",positive,No
+REV0011,C1127,2026-06-06,Beauty,Face Moisturizer,3,Worth it,"The product is acceptable, but I may compare alternatives next time.",neutral,Yes
+REV0012,C1153,2026-01-26,Electronics,Smart Watch,5,Could be better,Great value for money and easy to use.,positive,No
+REV0013,C1112,2025-10-28,Electronics,Wireless Earbuds,2,My experience,Delivery was late and the box arrived damaged.,negative,No
+REV0014,C1164,2025-11-02,Electronics,Wireless Earbuds,3,Satisfied,The item matches the description. I have mixed feelings.,neutral,Yes
+REV0015,C1029,2025-01-20,Home,Mixer Grinder,4,Review,Great value for money and easy to use.,positive,No
+REV0016,C1033,2026-06-30,Home,Air Fryer,4,My experience,Very happy with this purchase. Delivery was quick.,positive,No
+REV0017,C1103,2025-11-16,Home,Mixer Grinder,4,Issue with product,I would recommend this product to friends.,positive,No
+REV0018,C1087,2025-03-07,Books,Programming Book,3,Worth it,It does the basic job without any extra benefits.,neutral,Yes
+REV0019,C1019,2025-12-05,Home,Air Fryer,4,Satisfied,Excellent quality and works exactly as described.,positive,Yes
+REV0020,C1105,2026-04-30,Fashion,Running Shoes,2,My experience,Customer support did not respond to my complaint.,negative,Yes
+REV0021,C1173,2025-02-25,Electronics,Smart Watch,2,Issue with product,Uncomfortable to use and the material feels cheap.,negative,Yes
+REV0022,C1138,2025-07-14,Electronics,Wireless Earbuds,4,Could be better,Battery life is impressive and performance is smooth.,positive,Yes
+REV0023,C1026,2026-07-18,Beauty,Face Moisturizer,4,Worth it,"Comfortable, useful, and worth the price.",positive,Yes
+REV0024,C1055,2026-05-08,Electronics,Smart Watch,3,Everyday use,"It has useful features, but there is room for improvement.",neutral,No
+REV0025,C1109,2025-10-20,Electronics,Wireless Earbuds,5,Issue with product,Excellent quality and works exactly as described.,positive,No
+REV0026,C1015,2025-11-18,Home,Mixer Grinder,4,Worth it,The product feels premium and the packaging was neat.,positive,No
+REV0027,C1173,2025-03-11,Home,Mixer Grinder,4,Everyday use,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0028,C1145,2026-08-21,Beauty,Face Moisturizer,4,Satisfied,The product feels premium and the packaging was neat.,positive,No
+REV0029,C1118,2025-11-04,Fashion,Running Shoes,2,Review,"Delivery was fast, although the product quality is average.",mixed,Yes
+REV0030,C1034,2025-09-29,Electronics,Wireless Earbuds,1,Review,Delivery was late and the box arrived damaged.,negative,Yes
+REV0031,C1003,2026-06-26,Home,Air Fryer,5,Issue with product,Great value for money and easy to use.,positive,No
+REV0032,C1040,2026-07-21,Electronics,Smart Watch,3,Review,Delivery was on time and the product is ordinary.,neutral,No
+REV0033,C1024,2025-02-22,Home,Air Fryer,2,Issue with product,Customer support did not respond to my complaint.,negative,No
+REV0034,C1142,2026-03-29,Fashion,Running Shoes,4,Issue with product,Battery life is impressive and performance is smooth.,positive,No
+REV0035,C1038,2026-07-20,Electronics,Wireless Earbuds,4,Could be better,Great value for money and easy to use.,positive,Yes
+REV0036,C1171,2025-09-13,Electronics,Wireless Earbuds,5,Worth it,Excellent quality and works exactly as described.,positive,No
+REV0037,C1007,2026-02-27,Beauty,Face Moisturizer,4,My experience,"Not bad at all, and the quality is better than expected.",positive,No
+REV0038,C1098,2025-04-21,Beauty,Face Moisturizer,3,Everyday use,"It has useful features, but there is room for improvement.",neutral,Yes
+REV0039,C1007,2025-08-17,Books,Programming Book,5,Issue with product,"Comfortable, useful, and worth the price.",positive,Yes
+REV0040,C1103,2026-06-06,Beauty,Face Moisturizer,5,Issue with product,Very happy with this purchase. Delivery was quick.,positive,No
+REV0041,C1153,2025-04-22,Electronics,Wireless Earbuds,2,Could be better,I do not recommend it because it is not reliable.,negative,No
+REV0042,C1112,2025-02-15,Fashion,Backpack,1,Worth it,Delivery was late and the box arrived damaged.,negative,Yes
+REV0043,C1130,2025-11-04,Fashion,Backpack,1,Review,Uncomfortable to use and the material feels cheap.,negative,No
+REV0044,C1174,2026-01-24,Fashion,Backpack,4,Issue with product,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0045,C1149,2026-03-17,Fashion,Running Shoes,5,Satisfied,Excellent quality and works exactly as described.,positive,No
+REV0046,C1073,2025-03-28,Books,Programming Book,1,Satisfied,Customer support did not respond to my complaint.,negative,No
+REV0047,C1007,2025-05-31,Electronics,Smart Watch,3,Worth it,"It has useful features, but there is room for improvement.",neutral,Yes
+REV0048,C1050,2026-08-13,Books,Programming Book,2,Issue with product,Delivery was late and the box arrived damaged.,negative,No
+REV0049,C1046,2025-08-13,Books,Programming Book,4,Everyday use,Great value for money and easy to use.,positive,No
+REV0050,C1144,2026-06-28,Electronics,Wireless Earbuds,1,Satisfied,Delivery was late and the box arrived damaged.,negative,No
+REV0051,C1116,2026-05-02,Books,Programming Book,1,Review,I received the wrong item and the return process is confusing.,negative,Yes
+REV0052,C1074,2025-03-21,Fashion,Running Shoes,3,My experience,It does the basic job without any extra benefits.,neutral,No
+REV0053,C1178,2026-01-28,Fashion,Backpack,2,My experience,"The product is good, not excellent, and delivery was late.",mixed,Yes
+REV0054,C1108,2025-07-31,Electronics,Smart Watch,5,Could be better,Battery life is impressive and performance is smooth.,positive,Yes
+REV0055,C1140,2026-07-06,Beauty,Face Moisturizer,2,Everyday use,Uncomfortable to use and the material feels cheap.,negative,Yes
+REV0056,C1172,2025-12-11,Books,Programming Book,5,Issue with product,I would recommend this product to friends.,positive,No
+REV0057,C1170,2026-08-01,Home,Mixer Grinder,3,Worth it,Delivery was on time and the product is ordinary.,neutral,Yes
+REV0058,C1055,2025-12-02,Beauty,Face Moisturizer,3,Could be better,"Delivery was fast, although the product quality is average.",mixed,No
+REV0059,C1121,2025-03-25,Fashion,Backpack,3,Worth it,"The product is acceptable, but I may compare alternatives next time.",neutral,Yes
+REV0060,C1006,2025-07-24,Fashion,Backpack,4,Satisfied,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0061,C1095,2025-09-20,Home,Air Fryer,4,My experience,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0062,C1102,2026-01-20,Home,Mixer Grinder,3,Issue with product,Average quality for the price. Nothing special.,neutral,Yes
+REV0063,C1031,2026-09-07,Electronics,Smart Watch,2,Everyday use,Customer support did not respond to my complaint.,negative,Yes
+REV0064,C1126,2026-03-07,Fashion,Backpack,2,Worth it,Uncomfortable to use and the material feels cheap.,negative,No
+REV0065,C1167,2026-06-19,Fashion,Backpack,2,Review,Battery drains quickly. Not recommended.,negative,No
+REV0066,C1116,2025-10-13,Books,Programming Book,1,My experience,The product does not work as advertised.,negative,No
+REV0067,C1091,2025-08-06,Beauty,Face Moisturizer,5,Everyday use,"Comfortable, useful, and worth the price.",positive,No
+REV0068,C1105,2025-09-05,Fashion,Backpack,4,Could be better,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0069,C1057,2025-10-29,Books,Programming Book,1,Could be better,Battery drains quickly. Not recommended.,negative,Yes
+REV0070,C1085,2026-07-18,Fashion,Running Shoes,2,Review,Uncomfortable to use and the material feels cheap.,negative,No
+REV0071,C1138,2025-05-03,Fashion,Running Shoes,4,Everyday use,The product feels premium and the packaging was neat.,positive,Yes
+REV0072,C1076,2025-07-18,Home,Air Fryer,5,My experience,"Comfortable, useful, and worth the price.",positive,No
+REV0073,C1075,2026-07-21,Home,Mixer Grinder,5,Issue with product,Great value for money and easy to use.,positive,Yes
+REV0074,C1088,2026-03-28,Books,Programming Book,5,My experience,"Not bad at all, and the quality is better than expected.",positive,Yes
+REV0075,C1019,2026-05-19,Fashion,Running Shoes,3,Satisfied,It does the basic job without any extra benefits.,neutral,Yes
+REV0076,C1107,2026-07-26,Home,Mixer Grinder,4,Satisfied,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0077,C1159,2026-08-06,Beauty,Face Moisturizer,2,Worth it,Battery drains quickly. Not recommended.,negative,Yes
+REV0078,C1142,2025-06-27,Home,Air Fryer,1,Worth it,The product does not work as advertised.,negative,Yes
+REV0079,C1073,2025-10-23,Electronics,Wireless Earbuds,5,Issue with product,"Comfortable, useful, and worth the price.",positive,No
+REV0080,C1058,2026-07-12,Electronics,Smart Watch,2,Issue with product,The product does not work as advertised.,negative,Yes
+REV0081,C1146,2026-09-02,Fashion,Running Shoes,3,Review,Average quality for the price. Nothing special.,neutral,No
+REV0082,C1127,2026-07-07,Electronics,Smart Watch,2,Could be better,I do not recommend it because it is not reliable.,negative,Yes
+REV0083,C1173,2025-08-23,Electronics,Wireless Earbuds,3,Everyday use,Packaging was fine. I have not used it enough to judge.,neutral,Yes
+REV0084,C1150,2025-07-05,Fashion,Running Shoes,2,Could be better,Poor value for money. I regret buying this.,negative,No
+REV0085,C1042,2025-04-18,Electronics,Smart Watch,2,Review,I received the wrong item and the return process is confusing.,negative,No
+REV0086,C1065,2025-11-19,Books,Programming Book,4,Review,I would recommend this product to friends.,positive,Yes
+REV0087,C1133,2025-07-12,Beauty,Face Moisturizer,2,Review,"Good performance; however, the return policy is confusing.",mixed,No
+REV0088,C1179,2026-03-25,Books,Programming Book,1,Could be better,Customer support did not respond to my complaint.,negative,Yes
+REV0089,C1142,2025-01-15,Electronics,Wireless Earbuds,3,Could be better,"It has useful features, but there is room for improvement.",neutral,Yes
+REV0090,C1128,2025-06-07,Home,Air Fryer,3,Issue with product,Average quality for the price. Nothing special.,neutral,No
+REV0091,C1038,2026-07-19,Fashion,Running Shoes,5,Could be better,"Comfortable, useful, and worth the price.",positive,Yes
+REV0092,C1001,2025-10-01,Home,Mixer Grinder,3,Review,The item matches the description. I have mixed feelings.,neutral,No
+REV0093,C1140,2026-07-20,Books,Programming Book,3,Could be better,It does the basic job without any extra benefits.,neutral,No
+REV0094,C1082,2025-02-14,Fashion,Backpack,3,Issue with product,"It has useful features, but there is room for improvement.",neutral,No
+REV0095,C1152,2026-05-30,Beauty,Face Moisturizer,5,Review,Great value for money and easy to use.,positive,Yes
+REV0096,C1020,2025-06-08,Books,Programming Book,4,Could be better,"Comfortable, useful, and worth the price.",positive,No
+REV0097,C1098,2026-07-01,Fashion,Backpack,2,Review,I received the wrong item and the return process is confusing.,negative,No
+REV0098,C1112,2025-04-03,Electronics,Wireless Earbuds,1,Worth it,Customer support did not respond to my complaint.,negative,Yes
+REV0099,C1076,2025-02-27,Books,Programming Book,4,Review,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0100,C1157,2025-03-22,Beauty,Face Moisturizer,4,Everyday use,I would recommend this product to friends.,positive,No
+REV0101,C1118,2025-09-18,Home,Air Fryer,2,Review,Poor value for money. I regret buying this.,negative,Yes
+REV0102,C1077,2026-08-25,Books,Programming Book,3,Issue with product,Delivery was on time and the product is ordinary.,neutral,No
+REV0103,C1061,2025-04-20,Fashion,Running Shoes,2,Could be better,The product does not work as advertised.,negative,No
+REV0104,C1145,2025-01-09,Fashion,Running Shoes,3,Everyday use,The item matches the description. I have mixed feelings.,neutral,Yes
+REV0105,C1159,2025-07-14,Books,Programming Book,3,Review,The item matches the description. I have mixed feelings.,neutral,Yes
+REV0106,C1094,2026-08-17,Electronics,Smart Watch,2,Issue with product,"The product is good, not excellent, and delivery was late.",mixed,Yes
+REV0107,C1139,2025-05-16,Electronics,Smart Watch,3,Review,Packaging was fine. I have not used it enough to judge.,neutral,No
+REV0108,C1020,2026-04-25,Home,Mixer Grinder,5,My experience,"Comfortable, useful, and worth the price.",positive,Yes
+REV0109,C1138,2025-09-28,Beauty,Face Moisturizer,3,Worth it,Packaging was fine. I have not used it enough to judge.,neutral,No
+REV0110,C1121,2025-08-28,Fashion,Backpack,2,Worth it,The product does not work as advertised.,negative,No
+REV0111,C1012,2025-05-24,Home,Air Fryer,5,Worth it,"Not bad at all, and the quality is better than expected.",positive,No
+REV0112,C1172,2026-01-15,Books,Programming Book,4,Issue with product,The product feels premium and the packaging was neat.,positive,No
+REV0113,C1177,2025-02-03,Home,Mixer Grinder,3,Review,Average quality for the price. Nothing special.,neutral,Yes
+REV0114,C1140,2026-01-12,Books,Programming Book,1,Issue with product,Customer support did not respond to my complaint.,negative,No
+REV0115,C1165,2025-08-06,Electronics,Wireless Earbuds,4,Issue with product,The product feels premium and the packaging was neat.,positive,Yes
+REV0116,C1151,2025-08-01,Electronics,Wireless Earbuds,4,My experience,"Delivery was fast, although the product quality is average.",mixed,Yes
+REV0117,C1065,2026-07-08,Fashion,Backpack,3,Everyday use,The product is okay and works as expected.,neutral,Yes
+REV0118,C1151,2025-09-01,Electronics,Smart Watch,1,Review,Very disappointing quality. It stopped working after two days.,negative,Yes
+REV0119,C1122,2025-03-07,Home,Mixer Grinder,5,Could be better,Great value for money and easy to use.,positive,No
+REV0120,C1016,2025-02-01,Electronics,Smart Watch,2,Could be better,Customer support did not respond to my complaint.,negative,No
+REV0121,C1156,2025-11-26,Beauty,Face Moisturizer,1,My experience,Battery drains quickly. Not recommended.,negative,Yes
+REV0122,C1155,2026-06-02,Home,Mixer Grinder,5,Could be better,Battery life is impressive and performance is smooth.,positive,Yes
+REV0123,C1087,2026-02-28,Electronics,Smart Watch,2,Everyday use,I do not recommend it because it is not reliable.,negative,No
+REV0124,C1096,2025-09-19,Beauty,Face Moisturizer,5,My experience,Very happy with this purchase. Delivery was quick.,positive,No
+REV0125,C1034,2026-01-17,Electronics,Smart Watch,4,Satisfied,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0126,C1074,2025-02-22,Fashion,Backpack,2,Satisfied,I received the wrong item and the return process is confusing.,negative,No
+REV0127,C1090,2025-04-21,Fashion,Backpack,4,Everyday use,The product feels premium and the packaging was neat.,positive,No
+REV0128,C1008,2025-10-01,Electronics,Smart Watch,3,My experience,"It has useful features, but there is room for improvement.",neutral,No
+REV0129,C1169,2026-08-03,Fashion,Running Shoes,3,Could be better,Packaging was fine. I have not used it enough to judge.,neutral,Yes
+REV0130,C1117,2026-03-06,Home,Mixer Grinder,1,Review,Very disappointing quality. It stopped working after two days.,negative,Yes
+REV0131,C1159,2025-06-11,Fashion,Backpack,4,Worth it,Battery life is impressive and performance is smooth.,positive,Yes
+REV0132,C1056,2025-10-07,Fashion,Running Shoes,2,Everyday use,I received the wrong item and the return process is confusing.,negative,Yes
+REV0133,C1102,2025-08-14,Fashion,Backpack,2,Satisfied,The product does not work as advertised.,negative,Yes
+REV0134,C1031,2025-12-02,Electronics,Wireless Earbuds,4,Worth it,The product feels premium and the packaging was neat.,positive,No
+REV0135,C1011,2026-02-11,Beauty,Face Moisturizer,4,Could be better,I would recommend this product to friends.,positive,Yes
+REV0136,C1075,2026-03-04,Books,Programming Book,3,Worth it,Packaging was fine. I have not used it enough to judge.,neutral,No
+REV0137,C1028,2026-03-24,Electronics,Wireless Earbuds,3,My experience,Delivery was on time and the product is ordinary.,neutral,No
+REV0138,C1044,2025-12-08,Beauty,Face Moisturizer,2,Worth it,I received the wrong item and the return process is confusing.,negative,Yes
+REV0139,C1038,2025-04-16,Home,Air Fryer,3,Review,Packaging was fine. I have not used it enough to judge.,neutral,Yes
+REV0140,C1149,2026-08-01,Home,Mixer Grinder,2,Could be better,Delivery was late and the box arrived damaged.,negative,No
+REV0141,C1071,2025-11-07,Fashion,Backpack,5,Satisfied,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0142,C1095,2025-02-28,Fashion,Backpack,2,Everyday use,The product does not work as advertised.,negative,No
+REV0143,C1011,2026-07-22,Electronics,Smart Watch,2,Could be better,Delivery was late and the box arrived damaged.,negative,Yes
+REV0144,C1022,2025-12-18,Fashion,Backpack,2,Satisfied,Poor value for money. I regret buying this.,negative,Yes
+REV0145,C1100,2025-10-17,Electronics,Wireless Earbuds,3,Could be better,"The price is fair, but the material feels cheap.",mixed,No
+REV0146,C1174,2026-07-26,Electronics,Wireless Earbuds,3,Could be better,Packaging was fine. I have not used it enough to judge.,neutral,No
+REV0147,C1090,2025-05-25,Fashion,Running Shoes,1,Review,Poor value for money. I regret buying this.,negative,No
+REV0148,C1033,2025-12-03,Home,Mixer Grinder,5,Issue with product,"Not bad at all, and the quality is better than expected.",positive,Yes
+REV0149,C1088,2025-08-08,Beauty,Face Moisturizer,2,Everyday use,Very disappointing quality. It stopped working after two days.,negative,No
+REV0150,C1130,2025-04-14,Home,Air Fryer,4,Everyday use,Great value for money and easy to use.,positive,Yes
+REV0151,C1178,2025-07-05,Fashion,Backpack,3,Everyday use,Delivery was on time and the product is ordinary.,neutral,Yes
+REV0152,C1115,2025-10-19,Books,Programming Book,4,My experience,Battery life is impressive and performance is smooth.,positive,Yes
+REV0153,C1113,2026-08-08,Fashion,Running Shoes,3,Could be better,It does the basic job without any extra benefits.,neutral,No
+REV0154,C1065,2025-05-22,Beauty,Face Moisturizer,1,Worth it,I received the wrong item and the return process is confusing.,negative,No
+REV0155,C1070,2025-06-14,Fashion,Backpack,2,Could be better,Delivery was late and the box arrived damaged.,negative,Yes
+REV0156,C1014,2026-03-01,Beauty,Face Moisturizer,5,Could be better,The product feels premium and the packaging was neat.,positive,No
+REV0157,C1026,2025-11-23,Home,Air Fryer,5,Everyday use,Very happy with this purchase. Delivery was quick.,positive,No
+REV0158,C1115,2026-04-26,Home,Mixer Grinder,5,Satisfied,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0159,C1061,2025-10-23,Electronics,Smart Watch,2,Review,"The product is good, not excellent, and delivery was late.",mixed,Yes
+REV0160,C1138,2026-09-04,Electronics,Wireless Earbuds,4,Worth it,"Comfortable, useful, and worth the price.",positive,Yes
+REV0161,C1048,2026-03-03,Home,Mixer Grinder,5,Issue with product,Excellent quality and works exactly as described.,positive,Yes
+REV0162,C1100,2026-10-13,Fashion,Backpack,5,Review,Excellent quality and works exactly as described.,positive,No
+REV0163,C1027,2026-10-06,Electronics,Wireless Earbuds,5,Everyday use,Very happy with this purchase. Delivery was quick.,positive,No
+REV0164,C1162,2026-05-06,Home,Mixer Grinder,2,My experience,I do not recommend it because it is not reliable.,negative,Yes
+REV0165,C1052,2025-02-14,Electronics,Smart Watch,2,Worth it,Battery drains quickly. Not recommended.,negative,No
+REV0166,C1074,2025-07-15,Fashion,Running Shoes,1,Review,Battery drains quickly. Not recommended.,negative,Yes
+REV0167,C1099,2026-03-27,Fashion,Backpack,5,Review,Battery life is impressive and performance is smooth.,positive,Yes
+REV0168,C1021,2026-03-11,Books,Programming Book,1,Could be better,Uncomfortable to use and the material feels cheap.,negative,Yes
+REV0169,C1155,2026-04-02,Fashion,Running Shoes,5,Issue with product,Very happy with this purchase. Delivery was quick.,positive,No
+REV0170,C1158,2025-12-28,Home,Mixer Grinder,1,Could be better,Uncomfortable to use and the material feels cheap.,negative,No
+REV0171,C1156,2025-05-27,Electronics,Wireless Earbuds,5,Issue with product,I would recommend this product to friends.,positive,No
+REV0172,C1009,2026-08-04,Electronics,Wireless Earbuds,5,Satisfied,The product feels premium and the packaging was neat.,positive,Yes
+REV0173,C1136,2025-05-21,Books,Programming Book,3,Review,Packaging was fine. I have not used it enough to judge.,neutral,No
+REV0174,C1100,2026-06-15,Fashion,Backpack,3,Satisfied,"Good design, but the battery drains too quickly.",mixed,Yes
+REV0175,C1052,2026-05-18,Fashion,Running Shoes,3,Worth it,It does the basic job without any extra benefits.,neutral,Yes
+REV0176,C1017,2025-12-22,Electronics,Smart Watch,2,Satisfied,Battery drains quickly. Not recommended.,negative,No
+REV0177,C1036,2025-07-25,Fashion,Running Shoes,3,My experience,Delivery was on time and the product is ordinary.,neutral,No
+REV0178,C1017,2025-03-30,Electronics,Wireless Earbuds,5,Review,Battery life is impressive and performance is smooth.,positive,No
+REV0179,C1116,2025-03-17,Books,Programming Book,1,Could be better,I received the wrong item and the return process is confusing.,negative,No
+REV0180,C1032,2025-02-26,Home,Mixer Grinder,3,Satisfied,Delivery was on time and the product is ordinary.,neutral,Yes
+REV0181,C1021,2025-10-18,Fashion,Running Shoes,4,Review,Battery life is impressive and performance is smooth.,positive,Yes
+REV0182,C1040,2026-08-18,Fashion,Running Shoes,4,My experience,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0183,C1068,2026-08-14,Electronics,Wireless Earbuds,3,Issue with product,The product is okay and works as expected.,neutral,Yes
+REV0184,C1124,2025-11-06,Beauty,Face Moisturizer,2,My experience,Very disappointing quality. It stopped working after two days.,negative,No
+REV0185,C1119,2026-05-11,Fashion,Running Shoes,4,My experience,"Not bad at all, and the quality is better than expected.",positive,No
+REV0186,C1132,2026-01-15,Home,Mixer Grinder,5,Satisfied,Battery life is impressive and performance is smooth.,positive,Yes
+REV0187,C1025,2025-05-25,Fashion,Backpack,5,Worth it,Very happy with this purchase. Delivery was quick.,positive,No
+REV0188,C1081,2026-08-15,Beauty,Face Moisturizer,3,My experience,"The product is acceptable, but I may compare alternatives next time.",neutral,Yes
+REV0189,C1024,2025-01-24,Books,Programming Book,3,Could be better,It does the basic job without any extra benefits.,neutral,No
+REV0190,C1153,2026-05-22,Home,Air Fryer,4,Everyday use,Battery life is impressive and performance is smooth.,positive,No
+REV0191,C1104,2026-01-10,Fashion,Running Shoes,1,Review,Delivery was late and the box arrived damaged.,negative,Yes
+REV0192,C1130,2026-01-31,Beauty,Face Moisturizer,5,Could be better,The product feels premium and the packaging was neat.,positive,No
+REV0193,C1094,2026-07-26,Electronics,Smart Watch,5,Everyday use,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0194,C1086,2025-05-21,Home,Air Fryer,1,Everyday use,I received the wrong item and the return process is confusing.,negative,No
+REV0195,C1158,2026-02-07,Books,Programming Book,5,Issue with product,Great value for money and easy to use.,positive,No
+REV0196,C1085,2026-01-13,Fashion,Backpack,2,Issue with product,Battery drains quickly. Not recommended.,negative,Yes
+REV0197,C1148,2026-08-16,Beauty,Face Moisturizer,2,My experience,Very disappointing quality. It stopped working after two days.,negative,Yes
+REV0198,C1180,2026-08-10,Books,Programming Book,4,Worth it,I would recommend this product to friends.,positive,Yes
+REV0199,C1106,2025-07-28,Electronics,Wireless Earbuds,2,Satisfied,I received the wrong item and the return process is confusing.,negative,No
+REV0200,C1081,2026-01-21,Electronics,Wireless Earbuds,2,My experience,Customer support did not respond to my complaint.,negative,No
+REV0201,C1143,2025-10-13,Fashion,Backpack,1,Review,The product does not work as advertised.,negative,Yes
+REV0202,C1144,2025-12-24,Fashion,Running Shoes,3,Everyday use,"It has useful features, but there is room for improvement.",neutral,No
+REV0203,C1074,2025-02-13,Fashion,Running Shoes,3,Issue with product,"The price is fair, but the material feels cheap.",mixed,Yes
+REV0204,C1070,2026-07-06,Fashion,Backpack,3,Satisfied,The item matches the description. I have mixed feelings.,neutral,No
+REV0205,C1058,2026-06-28,Home,Mixer Grinder,1,Issue with product,I do not recommend it because it is not reliable.,negative,Yes
+REV0206,C1002,2025-05-21,Electronics,Wireless Earbuds,5,Satisfied,Battery life is impressive and performance is smooth.,positive,Yes
+REV0207,C1074,2025-11-25,Beauty,Face Moisturizer,1,Issue with product,Battery drains quickly. Not recommended.,negative,Yes
+REV0208,C1010,2025-06-30,Electronics,Smart Watch,1,Everyday use,Customer support did not respond to my complaint.,negative,No
+REV0209,C1155,2026-08-05,Books,Programming Book,4,Worth it,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0210,C1029,2025-07-17,Fashion,Running Shoes,2,Review,Battery drains quickly. Not recommended.,negative,Yes
+REV0211,C1173,2026-08-05,Books,Programming Book,2,Everyday use,Poor value for money. I regret buying this.,negative,Yes
+REV0212,C1172,2026-02-15,Home,Mixer Grinder,2,Worth it,"The product is good, not excellent, and delivery was late.",mixed,Yes
+REV0213,C1115,2025-08-30,Home,Mixer Grinder,2,Everyday use,Customer support did not respond to my complaint.,negative,No
+REV0214,C1016,2025-08-30,Fashion,Backpack,5,Issue with product,Excellent quality and works exactly as described.,positive,Yes
+REV0215,C1095,2025-10-30,Books,Programming Book,5,Satisfied,I would recommend this product to friends.,positive,Yes
+REV0216,C1096,2026-09-13,Home,Air Fryer,3,Could be better,It does the basic job without any extra benefits.,neutral,No
+REV0217,C1029,2026-08-01,Home,Air Fryer,3,Worth it,Average quality for the price. Nothing special.,neutral,Yes
+REV0218,C1126,2026-08-21,Home,Mixer Grinder,4,Worth it,"Comfortable, useful, and worth the price.",positive,No
+REV0219,C1173,2026-04-19,Electronics,Wireless Earbuds,1,Everyday use,I received the wrong item and the return process is confusing.,negative,No
+REV0220,C1089,2026-03-10,Electronics,Wireless Earbuds,4,Issue with product,Excellent quality and works exactly as described.,positive,Yes
+REV0221,C1047,2026-02-23,Electronics,Wireless Earbuds,3,Everyday use,Average quality for the price. Nothing special.,neutral,Yes
+REV0222,C1175,2025-03-24,Beauty,Face Moisturizer,5,Issue with product,"Not bad at all, and the quality is better than expected.",positive,Yes
+REV0223,C1077,2025-01-24,Fashion,Backpack,4,Could be better,I would recommend this product to friends.,positive,No
+REV0224,C1049,2025-10-10,Beauty,Face Moisturizer,3,Issue with product,"It has useful features, but there is room for improvement.",neutral,Yes
+REV0225,C1026,2025-03-10,Electronics,Wireless Earbuds,3,Satisfied,"The product is acceptable, but I may compare alternatives next time.",neutral,Yes
+REV0226,C1060,2026-03-26,Books,Programming Book,1,Satisfied,Very disappointing quality. It stopped working after two days.,negative,Yes
+REV0227,C1173,2026-09-05,Electronics,Wireless Earbuds,4,Everyday use,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0228,C1016,2025-10-09,Home,Air Fryer,4,Satisfied,Great value for money and easy to use.,positive,Yes
+REV0229,C1179,2025-11-23,Beauty,Face Moisturizer,2,Could be better,Very disappointing quality. It stopped working after two days.,negative,No
+REV0230,C1037,2025-11-04,Home,Mixer Grinder,5,Everyday use,Great value for money and easy to use.,positive,No
+REV0231,C1053,2025-09-19,Electronics,Wireless Earbuds,2,Review,I received the wrong item and the return process is confusing.,negative,Yes
+REV0232,C1173,2026-01-22,Books,Programming Book,3,Satisfied,"Works well so far, but the packaging was damaged.",mixed,Yes
+REV0233,C1004,2025-11-07,Electronics,Smart Watch,5,My experience,The product feels premium and the packaging was neat.,positive,Yes
+REV0234,C1142,2025-09-03,Electronics,Smart Watch,1,Review,Battery drains quickly. Not recommended.,negative,No
+REV0235,C1128,2026-06-10,Beauty,Face Moisturizer,2,Could be better,Uncomfortable to use and the material feels cheap.,negative,Yes
+REV0236,C1012,2026-02-28,Books,Programming Book,3,Satisfied,Packaging was fine. I have not used it enough to judge.,neutral,Yes
+REV0237,C1059,2025-12-04,Home,Mixer Grinder,5,Could be better,I would recommend this product to friends.,positive,Yes
+REV0238,C1118,2026-05-18,Books,Programming Book,2,My experience,Uncomfortable to use and the material feels cheap.,negative,No
+REV0239,C1020,2025-02-04,Home,Mixer Grinder,4,Everyday use,"Comfortable, useful, and worth the price.",positive,Yes
+REV0240,C1130,2025-08-12,Electronics,Wireless Earbuds,4,Could be better,The product feels premium and the packaging was neat.,positive,No
+REV0241,C1142,2026-06-29,Electronics,Wireless Earbuds,1,Could be better,Battery drains quickly. Not recommended.,negative,Yes
+REV0242,C1046,2026-03-17,Electronics,Wireless Earbuds,1,Worth it,The product does not work as advertised.,negative,Yes
+REV0243,C1096,2025-03-22,Home,Mixer Grinder,5,Could be better,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0244,C1024,2025-02-02,Home,Air Fryer,3,Could be better,"It has useful features, but there is room for improvement.",neutral,No
+REV0245,C1112,2026-05-27,Beauty,Face Moisturizer,1,Issue with product,Very disappointing quality. It stopped working after two days.,negative,No
+REV0246,C1122,2026-08-04,Electronics,Smart Watch,1,Review,I do not recommend it because it is not reliable.,negative,Yes
+REV0247,C1054,2025-01-17,Electronics,Smart Watch,1,Satisfied,The product does not work as advertised.,negative,Yes
+REV0248,C1174,2026-02-03,Beauty,Face Moisturizer,3,Satisfied,The item matches the description. I have mixed feelings.,neutral,No
+REV0249,C1112,2025-04-11,Beauty,Face Moisturizer,2,My experience,Poor value for money. I regret buying this.,negative,Yes
+REV0250,C1116,2025-10-07,Fashion,Backpack,1,Could be better,I received the wrong item and the return process is confusing.,negative,Yes
+REV0251,C1170,2026-08-23,Fashion,Backpack,1,Could be better,I received the wrong item and the return process is confusing.,negative,Yes
+REV0252,C1163,2026-01-25,Fashion,Running Shoes,3,My experience,Average quality for the price. Nothing special.,neutral,No
+REV0253,C1070,2026-01-04,Fashion,Backpack,4,Worth it,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0254,C1091,2025-04-02,Electronics,Smart Watch,5,Satisfied,"Comfortable, useful, and worth the price.",positive,Yes
+REV0255,C1144,2025-03-28,Fashion,Backpack,3,My experience,The product is okay and works as expected.,neutral,Yes
+REV0256,C1017,2025-05-30,Beauty,Face Moisturizer,5,My experience,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0257,C1161,2025-09-10,Fashion,Running Shoes,2,Could be better,Battery drains quickly. Not recommended.,negative,Yes
+REV0258,C1098,2026-09-28,Books,Programming Book,4,Everyday use,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0259,C1123,2025-07-25,Books,Programming Book,5,Review,"Not bad at all, and the quality is better than expected.",positive,Yes
+REV0260,C1072,2026-01-21,Beauty,Face Moisturizer,3,Everyday use,The item matches the description. I have mixed feelings.,neutral,No
+REV0261,C1054,2026-04-18,Fashion,Backpack,4,Could be better,"Works well so far, but the packaging was damaged.",mixed,No
+REV0262,C1062,2025-11-07,Electronics,Smart Watch,3,Review,"The product is acceptable, but I may compare alternatives next time.",neutral,Yes
+REV0263,C1137,2026-02-15,Beauty,Face Moisturizer,3,Satisfied,Average quality for the price. Nothing special.,neutral,No
+REV0264,C1043,2025-12-30,Electronics,Wireless Earbuds,3,Issue with product,Packaging was fine. I have not used it enough to judge.,neutral,Yes
+REV0265,C1067,2025-04-11,Beauty,Face Moisturizer,2,My experience,"The product is good, not excellent, and delivery was late.",mixed,Yes
+REV0266,C1027,2026-05-10,Books,Programming Book,4,Review,"Comfortable, useful, and worth the price.",positive,No
+REV0267,C1053,2026-04-12,Electronics,Smart Watch,5,Satisfied,Great value for money and easy to use.,positive,No
+REV0268,C1012,2025-11-04,Fashion,Backpack,2,Everyday use,Battery drains quickly. Not recommended.,negative,Yes
+REV0269,C1142,2025-06-28,Electronics,Wireless Earbuds,3,My experience,Average quality for the price. Nothing special.,neutral,No
+REV0270,C1102,2026-03-19,Beauty,Face Moisturizer,3,Worth it,"It has useful features, but there is room for improvement.",neutral,Yes
+REV0271,C1017,2025-10-13,Books,Programming Book,1,Satisfied,I received the wrong item and the return process is confusing.,negative,Yes
+REV0272,C1136,2026-05-17,Home,Mixer Grinder,5,Issue with product,The product feels premium and the packaging was neat.,positive,No
+REV0273,C1045,2026-09-25,Beauty,Face Moisturizer,2,Everyday use,Delivery was late and the box arrived damaged.,negative,No
+REV0274,C1047,2025-04-30,Electronics,Smart Watch,1,Review,Uncomfortable to use and the material feels cheap.,negative,Yes
+REV0275,C1163,2026-05-14,Beauty,Face Moisturizer,5,Satisfied,Great value for money and easy to use.,positive,Yes
+REV0276,C1014,2026-09-27,Home,Mixer Grinder,2,Everyday use,Poor value for money. I regret buying this.,negative,No
+REV0277,C1107,2026-05-19,Electronics,Wireless Earbuds,2,Issue with product,Customer support did not respond to my complaint.,negative,No
+REV0278,C1058,2025-10-09,Books,Programming Book,4,Satisfied,Excellent quality and works exactly as described.,positive,No
+REV0279,C1094,2026-07-11,Home,Mixer Grinder,3,Satisfied,It does the basic job without any extra benefits.,neutral,Yes
+REV0280,C1116,2025-02-03,Books,Programming Book,1,Review,I received the wrong item and the return process is confusing.,negative,No
+REV0281,C1177,2026-08-26,Electronics,Smart Watch,1,Review,Delivery was late and the box arrived damaged.,negative,No
+REV0282,C1137,2025-12-26,Home,Mixer Grinder,1,Review,Customer support did not respond to my complaint.,negative,Yes
+REV0283,C1035,2025-04-08,Fashion,Backpack,3,Everyday use,The item matches the description. I have mixed feelings.,neutral,No
+REV0284,C1064,2025-11-26,Electronics,Wireless Earbuds,3,Everyday use,Delivery was on time and the product is ordinary.,neutral,No
+REV0285,C1163,2025-03-19,Books,Programming Book,5,Everyday use,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0286,C1149,2025-12-02,Beauty,Face Moisturizer,2,Worth it,The product does not work as advertised.,negative,Yes
+REV0287,C1055,2026-03-16,Books,Programming Book,2,Could be better,I do not recommend it because it is not reliable.,negative,No
+REV0288,C1012,2025-02-19,Fashion,Backpack,3,Worth it,Packaging was fine. I have not used it enough to judge.,neutral,No
+REV0289,C1052,2026-03-15,Electronics,Wireless Earbuds,5,Issue with product,Great value for money and easy to use.,positive,Yes
+REV0290,C1171,2026-01-16,Fashion,Running Shoes,2,Issue with product,"Good design, but the battery drains too quickly.",mixed,Yes
+REV0291,C1025,2025-04-04,Electronics,Wireless Earbuds,4,Worth it,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0292,C1031,2025-12-18,Books,Programming Book,5,Everyday use,The product feels premium and the packaging was neat.,positive,No
+REV0293,C1027,2025-04-15,Home,Mixer Grinder,1,Review,Customer support did not respond to my complaint.,negative,No
+REV0294,C1003,2026-07-31,Fashion,Running Shoes,4,Satisfied,Great value for money and easy to use.,positive,Yes
+REV0295,C1056,2026-03-30,Books,Programming Book,4,Worth it,The product feels premium and the packaging was neat.,positive,Yes
+REV0296,C1064,2025-05-24,Home,Mixer Grinder,5,Review,"Not bad at all, and the quality is better than expected.",positive,Yes
+REV0297,C1156,2026-06-15,Home,Air Fryer,2,Satisfied,The product does not work as advertised.,negative,Yes
+REV0298,C1062,2025-04-26,Beauty,Face Moisturizer,4,Could be better,Excellent quality and works exactly as described.,positive,Yes
+REV0299,C1094,2026-03-07,Electronics,Wireless Earbuds,3,Satisfied,Packaging was fine. I have not used it enough to judge.,neutral,Yes
+REV0300,C1056,2025-09-26,Books,Programming Book,3,Worth it,Average quality for the price. Nothing special.,neutral,Yes
+REV0301,C1138,2026-07-04,Beauty,Face Moisturizer,2,Satisfied,I received the wrong item and the return process is confusing.,negative,Yes
+REV0302,C1101,2025-12-01,Fashion,Running Shoes,4,Satisfied,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0303,C1030,2026-03-21,Fashion,Running Shoes,1,Could be better,Customer support did not respond to my complaint.,negative,Yes
+REV0304,C1180,2025-05-21,Fashion,Running Shoes,1,Worth it,Poor value for money. I regret buying this.,negative,Yes
+REV0305,C1031,2025-10-03,Books,Programming Book,3,Everyday use,The item matches the description. I have mixed feelings.,neutral,Yes
+REV0306,C1161,2026-08-14,Fashion,Backpack,3,Worth it,The item matches the description. I have mixed feelings.,neutral,No
+REV0307,C1066,2025-06-11,Books,Programming Book,1,Everyday use,Very disappointing quality. It stopped working after two days.,negative,Yes
+REV0308,C1121,2025-02-17,Electronics,Smart Watch,4,Review,Excellent quality and works exactly as described.,positive,No
+REV0309,C1107,2025-09-12,Home,Mixer Grinder,5,Issue with product,Excellent quality and works exactly as described.,positive,No
+REV0310,C1133,2025-08-17,Fashion,Running Shoes,3,Worth it,Packaging was fine. I have not used it enough to judge.,neutral,No
+REV0311,C1117,2026-07-21,Electronics,Smart Watch,3,Worth it,The item matches the description. I have mixed feelings.,neutral,No
+REV0312,C1127,2026-08-29,Home,Air Fryer,4,Everyday use,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0313,C1163,2025-12-21,Home,Air Fryer,4,Everyday use,I would recommend this product to friends.,positive,Yes
+REV0314,C1061,2026-06-27,Fashion,Backpack,5,Could be better,I would recommend this product to friends.,positive,No
+REV0315,C1134,2025-08-26,Electronics,Wireless Earbuds,3,Could be better,Delivery was on time and the product is ordinary.,neutral,No
+REV0316,C1020,2026-02-08,Books,Programming Book,3,Satisfied,Average quality for the price. Nothing special.,neutral,Yes
+REV0317,C1101,2025-11-19,Beauty,Face Moisturizer,2,Issue with product,Poor value for money. I regret buying this.,negative,No
+REV0318,C1028,2026-08-22,Fashion,Backpack,2,My experience,"The product is good, not excellent, and delivery was late.",mixed,Yes
+REV0319,C1079,2026-04-08,Home,Mixer Grinder,2,Could be better,"The price is fair, but the material feels cheap.",mixed,No
+REV0320,C1024,2025-06-01,Electronics,Smart Watch,4,Issue with product,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0321,C1104,2025-02-01,Fashion,Backpack,5,Everyday use,Excellent quality and works exactly as described.,positive,No
+REV0322,C1057,2025-03-05,Home,Air Fryer,4,My experience,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0323,C1051,2025-03-08,Beauty,Face Moisturizer,5,Issue with product,Very happy with this purchase. Delivery was quick.,positive,No
+REV0324,C1044,2025-02-21,Home,Mixer Grinder,4,Satisfied,Battery life is impressive and performance is smooth.,positive,No
+REV0325,C1048,2025-08-08,Beauty,Face Moisturizer,1,Review,I received the wrong item and the return process is confusing.,negative,No
+REV0326,C1141,2026-02-26,Books,Programming Book,3,Could be better,The product is okay and works as expected.,neutral,Yes
+REV0327,C1064,2026-06-23,Electronics,Smart Watch,5,Issue with product,Great value for money and easy to use.,positive,Yes
+REV0328,C1129,2026-08-03,Beauty,Face Moisturizer,2,Review,I do not recommend it because it is not reliable.,negative,No
+REV0329,C1121,2025-03-01,Fashion,Running Shoes,4,Satisfied,Battery life is impressive and performance is smooth.,positive,No
+REV0330,C1015,2026-07-01,Home,Air Fryer,3,Everyday use,Average quality for the price. Nothing special.,neutral,Yes
+REV0331,C1179,2025-11-22,Beauty,Face Moisturizer,4,Review,Great value for money and easy to use.,positive,Yes
+REV0332,C1045,2025-11-13,Fashion,Backpack,3,Could be better,Delivery was on time and the product is ordinary.,neutral,Yes
+REV0333,C1158,2025-12-06,Electronics,Smart Watch,4,My experience,"Not bad at all, and the quality is better than expected.",positive,Yes
+REV0334,C1037,2026-08-24,Fashion,Backpack,1,Everyday use,Uncomfortable to use and the material feels cheap.,negative,Yes
+REV0335,C1083,2025-11-06,Fashion,Backpack,3,My experience,Packaging was fine. I have not used it enough to judge.,neutral,Yes
+REV0336,C1178,2026-07-30,Beauty,Face Moisturizer,3,Satisfied,It does the basic job without any extra benefits.,neutral,No
+REV0337,C1033,2025-10-29,Home,Air Fryer,2,My experience,Poor value for money. I regret buying this.,negative,Yes
+REV0338,C1164,2025-08-15,Beauty,Face Moisturizer,3,Satisfied,The product is okay and works as expected.,neutral,Yes
+REV0339,C1163,2025-06-21,Books,Programming Book,4,Worth it,Very happy with this purchase. Delivery was quick.,positive,No
+REV0340,C1028,2025-09-20,Books,Programming Book,4,Issue with product,The product feels premium and the packaging was neat.,positive,Yes
+REV0341,C1090,2026-01-23,Electronics,Wireless Earbuds,4,Satisfied,I would recommend this product to friends.,positive,No
+REV0342,C1076,2025-02-04,Electronics,Smart Watch,3,Worth it,"It has useful features, but there is room for improvement.",neutral,No
+REV0343,C1020,2025-06-14,Fashion,Running Shoes,3,Satisfied,Average quality for the price. Nothing special.,neutral,Yes
+REV0344,C1156,2025-06-18,Fashion,Backpack,2,Could be better,Battery drains quickly. Not recommended.,negative,Yes
+REV0345,C1139,2026-07-22,Electronics,Wireless Earbuds,4,Review,The product feels premium and the packaging was neat.,positive,No
+REV0346,C1093,2025-02-25,Fashion,Running Shoes,5,Worth it,Excellent quality and works exactly as described.,positive,No
+REV0347,C1044,2025-07-31,Electronics,Smart Watch,4,Issue with product,"Comfortable, useful, and worth the price.",positive,No
+REV0348,C1024,2025-09-29,Electronics,Smart Watch,3,Issue with product,"I like the features, but customer support was unhelpful.",mixed,No
+REV0349,C1068,2025-02-15,Home,Mixer Grinder,5,Could be better,I would recommend this product to friends.,positive,No
+REV0350,C1022,2025-04-10,Fashion,Running Shoes,4,Issue with product,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0351,C1138,2026-03-05,Beauty,Face Moisturizer,3,Issue with product,"It has useful features, but there is room for improvement.",neutral,No
+REV0352,C1133,2026-08-08,Home,Air Fryer,1,Everyday use,Delivery was late and the box arrived damaged.,negative,Yes
+REV0353,C1033,2025-07-17,Electronics,Smart Watch,3,Worth it,It does the basic job without any extra benefits.,neutral,No
+REV0354,C1082,2025-09-22,Electronics,Smart Watch,3,Issue with product,"The product is acceptable, but I may compare alternatives next time.",neutral,Yes
+REV0355,C1004,2026-04-15,Electronics,Smart Watch,5,Everyday use,I would recommend this product to friends.,positive,No
+REV0356,C1074,2025-04-14,Electronics,Smart Watch,4,Everyday use,Great value for money and easy to use.,positive,No
+REV0357,C1104,2025-10-10,Beauty,Face Moisturizer,5,My experience,"Comfortable, useful, and worth the price.",positive,No
+REV0358,C1069,2026-05-02,Electronics,Wireless Earbuds,4,Review,Battery life is impressive and performance is smooth.,positive,Yes
+REV0359,C1059,2025-04-11,Fashion,Backpack,3,My experience,The item matches the description. I have mixed feelings.,neutral,No
+REV0360,C1049,2025-04-02,Books,Programming Book,3,Could be better,Packaging was fine. I have not used it enough to judge.,neutral,Yes
+REV0361,C1130,2025-11-15,Beauty,Face Moisturizer,1,Could be better,Uncomfortable to use and the material feels cheap.,negative,Yes
+REV0362,C1013,2026-04-13,Electronics,Wireless Earbuds,4,Review,The product feels premium and the packaging was neat.,positive,Yes
+REV0363,C1062,2025-02-01,Fashion,Running Shoes,5,Review,"Comfortable, useful, and worth the price.",positive,No
+REV0364,C1177,2025-09-22,Books,Programming Book,5,Worth it,"Comfortable, useful, and worth the price.",positive,No
+REV0365,C1174,2025-08-19,Electronics,Wireless Earbuds,4,My experience,Great value for money and easy to use.,positive,No
+REV0366,C1154,2025-06-27,Beauty,Face Moisturizer,1,Everyday use,Very disappointing quality. It stopped working after two days.,negative,Yes
+REV0367,C1118,2025-12-24,Home,Air Fryer,5,Review,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0368,C1144,2026-01-19,Books,Programming Book,4,Issue with product,I would recommend this product to friends.,positive,No
+REV0369,C1071,2025-11-29,Fashion,Running Shoes,2,Review,I do not recommend it because it is not reliable.,negative,No
+REV0370,C1175,2025-11-24,Home,Air Fryer,4,My experience,"Not bad at all, and the quality is better than expected.",positive,Yes
+REV0371,C1150,2025-02-06,Books,Programming Book,3,Issue with product,"The product is good, not excellent, and delivery was late.",mixed,Yes
+REV0372,C1044,2025-11-04,Fashion,Backpack,2,Everyday use,Customer support did not respond to my complaint.,negative,Yes
+REV0373,C1168,2025-12-10,Fashion,Running Shoes,5,Worth it,Great value for money and easy to use.,positive,Yes
+REV0374,C1150,2025-09-24,Fashion,Backpack,5,Review,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0375,C1175,2025-05-03,Electronics,Smart Watch,1,Could be better,Delivery was late and the box arrived damaged.,negative,No
+REV0376,C1146,2026-02-24,Beauty,Face Moisturizer,4,Could be better,Great value for money and easy to use.,positive,Yes
+REV0377,C1081,2025-07-01,Fashion,Backpack,4,Issue with product,"Good design, but the battery drains too quickly.",mixed,Yes
+REV0378,C1034,2025-04-01,Electronics,Wireless Earbuds,1,Satisfied,Customer support did not respond to my complaint.,negative,No
+REV0379,C1052,2026-07-01,Beauty,Face Moisturizer,5,Issue with product,"Comfortable, useful, and worth the price.",positive,No
+REV0380,C1058,2025-09-12,Electronics,Wireless Earbuds,3,Issue with product,"It has useful features, but there is room for improvement.",neutral,No
+REV0381,C1077,2025-02-16,Fashion,Running Shoes,5,Review,I would recommend this product to friends.,positive,No
+REV0382,C1043,2025-07-12,Fashion,Backpack,2,Everyday use,Poor value for money. I regret buying this.,negative,No
+REV0383,C1044,2026-06-01,Electronics,Wireless Earbuds,4,Worth it,Great value for money and easy to use.,positive,No
+REV0384,C1168,2025-04-21,Electronics,Wireless Earbuds,4,Everyday use,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0385,C1065,2026-07-15,Electronics,Wireless Earbuds,2,Could be better,I received the wrong item and the return process is confusing.,negative,Yes
+REV0386,C1170,2025-04-14,Home,Air Fryer,2,Satisfied,Very disappointing quality. It stopped working after two days.,negative,No
+REV0387,C1128,2025-04-19,Home,Mixer Grinder,4,My experience,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0388,C1011,2025-06-14,Fashion,Running Shoes,3,Satisfied,"It has useful features, but there is room for improvement.",neutral,No
+REV0389,C1172,2025-01-14,Home,Air Fryer,1,Worth it,Battery drains quickly. Not recommended.,negative,Yes
+REV0390,C1117,2025-08-25,Books,Programming Book,4,Review,Very happy with this purchase. Delivery was quick.,positive,No
+REV0391,C1110,2025-11-17,Books,Programming Book,4,Issue with product,Great value for money and easy to use.,positive,Yes
+REV0392,C1085,2025-06-24,Electronics,Smart Watch,3,Review,The product is okay and works as expected.,neutral,No
+REV0393,C1103,2025-04-27,Fashion,Running Shoes,3,Could be better,Average quality for the price. Nothing special.,neutral,No
+REV0394,C1179,2025-05-16,Fashion,Running Shoes,3,Issue with product,It does the basic job without any extra benefits.,neutral,Yes
+REV0395,C1092,2026-01-24,Home,Mixer Grinder,5,Satisfied,"Comfortable, useful, and worth the price.",positive,Yes
+REV0396,C1017,2025-02-17,Home,Mixer Grinder,2,Review,Battery drains quickly. Not recommended.,negative,No
+REV0397,C1124,2025-09-12,Electronics,Wireless Earbuds,1,Review,Customer support did not respond to my complaint.,negative,No
+REV0398,C1127,2026-04-26,Home,Mixer Grinder,3,Everyday use,The product is okay and works as expected.,neutral,Yes
+REV0399,C1130,2025-02-21,Electronics,Smart Watch,2,My experience,Uncomfortable to use and the material feels cheap.,negative,No
+REV0400,C1023,2026-04-04,Beauty,Face Moisturizer,3,Everyday use,Average quality for the price. Nothing special.,neutral,No
+REV0401,C1010,2026-02-27,Books,Programming Book,4,Satisfied,"Comfortable, useful, and worth the price.",positive,Yes
+REV0402,C1014,2026-01-08,Electronics,Smart Watch,3,Everyday use,The item matches the description. I have mixed feelings.,neutral,Yes
+REV0403,C1169,2025-04-10,Books,Programming Book,5,My experience,"Comfortable, useful, and worth the price.",positive,Yes
+REV0404,C1127,2025-06-18,Fashion,Backpack,5,My experience,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0405,C1118,2025-08-09,Electronics,Smart Watch,4,Everyday use,The product feels premium and the packaging was neat.,positive,Yes
+REV0406,C1130,2026-08-27,Fashion,Backpack,3,My experience,"Good design, but the battery drains too quickly.",mixed,No
+REV0407,C1178,2025-07-01,Electronics,Wireless Earbuds,5,Satisfied,"Not bad at all, and the quality is better than expected.",positive,Yes
+REV0408,C1071,2025-09-12,Home,Mixer Grinder,5,Could be better,Battery life is impressive and performance is smooth.,positive,No
+REV0409,C1077,2026-06-09,Fashion,Running Shoes,2,Everyday use,Poor value for money. I regret buying this.,negative,No
+REV0410,C1129,2025-07-02,Home,Air Fryer,1,Satisfied,I do not recommend it because it is not reliable.,negative,No
+REV0411,C1134,2025-01-14,Electronics,Smart Watch,3,Worth it,It does the basic job without any extra benefits.,neutral,Yes
+REV0412,C1175,2025-10-21,Beauty,Face Moisturizer,4,Review,Excellent quality and works exactly as described.,positive,Yes
+REV0413,C1027,2026-04-09,Electronics,Wireless Earbuds,1,Satisfied,The product does not work as advertised.,negative,Yes
+REV0414,C1176,2026-03-03,Beauty,Face Moisturizer,4,Review,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0415,C1151,2026-01-12,Electronics,Wireless Earbuds,1,Satisfied,Customer support did not respond to my complaint.,negative,Yes
+REV0416,C1031,2026-06-11,Home,Air Fryer,4,Could be better,Great value for money and easy to use.,positive,Yes
+REV0417,C1002,2025-09-19,Beauty,Face Moisturizer,4,Review,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0418,C1141,2026-08-10,Home,Mixer Grinder,4,Review,Battery life is impressive and performance is smooth.,positive,Yes
+REV0419,C1138,2026-07-11,Fashion,Backpack,1,Could be better,Poor value for money. I regret buying this.,negative,Yes
+REV0420,C1056,2025-10-28,Fashion,Backpack,5,Everyday use,The product feels premium and the packaging was neat.,positive,No
+REV0421,C1160,2026-09-21,Electronics,Wireless Earbuds,5,My experience,Battery life is impressive and performance is smooth.,positive,Yes
+REV0422,C1007,2025-10-17,Fashion,Backpack,5,Satisfied,Very happy with this purchase. Delivery was quick.,positive,No
+REV0423,C1025,2025-03-26,Books,Programming Book,2,My experience,The product does not work as advertised.,negative,Yes
+REV0424,C1180,2026-07-05,Electronics,Smart Watch,2,Issue with product,"The product is good, not excellent, and delivery was late.",mixed,No
+REV0425,C1010,2025-12-06,Electronics,Smart Watch,2,Worth it,Poor value for money. I regret buying this.,negative,Yes
+REV0426,C1100,2026-02-22,Electronics,Wireless Earbuds,4,Could be better,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0427,C1017,2026-09-26,Beauty,Face Moisturizer,4,Everyday use,I would recommend this product to friends.,positive,Yes
+REV0428,C1073,2025-03-30,Electronics,Smart Watch,5,Everyday use,Very happy with this purchase. Delivery was quick.,positive,No
+REV0429,C1035,2025-08-14,Beauty,Face Moisturizer,5,Issue with product,Excellent quality and works exactly as described.,positive,No
+REV0430,C1143,2026-07-21,Fashion,Running Shoes,3,My experience,Delivery was on time and the product is ordinary.,neutral,Yes
+REV0431,C1055,2025-12-19,Electronics,Wireless Earbuds,4,Could be better,I would recommend this product to friends.,positive,Yes
+REV0432,C1014,2026-08-04,Home,Mixer Grinder,4,Everyday use,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0433,C1125,2026-08-18,Electronics,Smart Watch,5,Review,Very happy with this purchase. Delivery was quick.,positive,No
+REV0434,C1050,2025-03-13,Home,Mixer Grinder,2,Review,Customer support did not respond to my complaint.,negative,No
+REV0435,C1044,2026-03-15,Books,Programming Book,3,Worth it,"Good performance; however, the return policy is confusing.",mixed,No
+REV0436,C1123,2025-12-06,Home,Air Fryer,3,Could be better,"The product is acceptable, but I may compare alternatives next time.",neutral,No
+REV0437,C1021,2026-09-14,Fashion,Backpack,3,Everyday use,It does the basic job without any extra benefits.,neutral,No
+REV0438,C1005,2025-03-19,Home,Mixer Grinder,3,Everyday use,"It has useful features, but there is room for improvement.",neutral,Yes
+REV0439,C1121,2026-07-07,Beauty,Face Moisturizer,3,Issue with product,"It has useful features, but there is room for improvement.",neutral,Yes
+REV0440,C1024,2026-06-07,Fashion,Backpack,4,Could be better,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0441,C1145,2025-07-03,Electronics,Wireless Earbuds,2,Satisfied,Poor value for money. I regret buying this.,negative,Yes
+REV0442,C1068,2025-03-06,Books,Programming Book,3,Review,The product is okay and works as expected.,neutral,Yes
+REV0443,C1011,2025-02-17,Electronics,Wireless Earbuds,2,Issue with product,Uncomfortable to use and the material feels cheap.,negative,No
+REV0444,C1094,2026-01-23,Electronics,Smart Watch,5,Satisfied,"Not bad at all, and the quality is better than expected.",positive,Yes
+REV0445,C1124,2026-05-14,Fashion,Running Shoes,5,Satisfied,The product feels premium and the packaging was neat.,positive,Yes
+REV0446,C1048,2025-06-03,Home,Mixer Grinder,2,My experience,Customer support did not respond to my complaint.,negative,No
+REV0447,C1123,2026-05-06,Electronics,Smart Watch,1,My experience,I received the wrong item and the return process is confusing.,negative,Yes
+REV0448,C1132,2026-10-07,Beauty,Face Moisturizer,4,Worth it,Excellent quality and works exactly as described.,positive,Yes
+REV0449,C1022,2025-10-18,Electronics,Wireless Earbuds,5,My experience,Great value for money and easy to use.,positive,No
+REV0450,C1150,2025-05-27,Books,Programming Book,3,Everyday use,Delivery was on time and the product is ordinary.,neutral,Yes
+REV0451,C1099,2026-01-23,Fashion,Running Shoes,1,My experience,I do not recommend it because it is not reliable.,negative,Yes
+REV0452,C1158,2026-05-03,Electronics,Wireless Earbuds,4,Satisfied,I would recommend this product to friends.,positive,Yes
+REV0453,C1095,2026-03-07,Electronics,Smart Watch,4,Everyday use,Great value for money and easy to use.,positive,Yes
+REV0454,C1026,2026-08-13,Beauty,Face Moisturizer,5,Could be better,"Comfortable, useful, and worth the price.",positive,Yes
+REV0455,C1105,2026-07-11,Fashion,Running Shoes,2,Review,Customer support did not respond to my complaint.,negative,Yes
+REV0456,C1177,2025-07-30,Electronics,Wireless Earbuds,1,Everyday use,Very disappointing quality. It stopped working after two days.,negative,No
+REV0457,C1109,2026-07-03,Beauty,Face Moisturizer,5,Satisfied,Great value for money and easy to use.,positive,No
+REV0458,C1124,2026-07-25,Fashion,Running Shoes,3,My experience,"The product is acceptable, but I may compare alternatives next time.",neutral,No
+REV0459,C1169,2025-05-22,Books,Programming Book,5,Worth it,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0460,C1087,2026-02-15,Books,Programming Book,3,Everyday use,Delivery was on time and the product is ordinary.,neutral,Yes
+REV0461,C1112,2026-09-07,Home,Mixer Grinder,4,Worth it,Excellent quality and works exactly as described.,positive,Yes
+REV0462,C1168,2026-09-21,Fashion,Running Shoes,4,Satisfied,Very happy with this purchase. Delivery was quick.,positive,No
+REV0463,C1169,2025-07-26,Electronics,Wireless Earbuds,3,Everyday use,Delivery was on time and the product is ordinary.,neutral,No
+REV0464,C1168,2025-09-02,Home,Air Fryer,3,Worth it,"Works well so far, but the packaging was damaged.",mixed,Yes
+REV0465,C1052,2026-08-24,Electronics,Smart Watch,3,Satisfied,"The product is acceptable, but I may compare alternatives next time.",neutral,Yes
+REV0466,C1156,2025-08-20,Electronics,Smart Watch,3,My experience,The item matches the description. I have mixed feelings.,neutral,No
+REV0467,C1144,2025-04-20,Beauty,Face Moisturizer,2,Worth it,The product does not work as advertised.,negative,No
+REV0468,C1124,2026-07-31,Fashion,Backpack,3,Everyday use,The item matches the description. I have mixed feelings.,neutral,Yes
+REV0469,C1067,2025-04-30,Fashion,Backpack,3,Worth it,It does the basic job without any extra benefits.,neutral,No
+REV0470,C1138,2026-06-13,Home,Air Fryer,2,Worth it,Customer support did not respond to my complaint.,negative,No
+REV0471,C1122,2025-07-02,Home,Air Fryer,5,Review,I would recommend this product to friends.,positive,No
+REV0472,C1061,2025-07-24,Home,Air Fryer,3,Issue with product,The item matches the description. I have mixed feelings.,neutral,Yes
+REV0473,C1031,2025-04-20,Fashion,Running Shoes,4,Worth it,The product feels premium and the packaging was neat.,positive,No
+REV0474,C1127,2025-11-19,Electronics,Wireless Earbuds,3,Satisfied,The product is okay and works as expected.,neutral,No
+REV0475,C1014,2025-05-12,Books,Programming Book,5,Satisfied,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0476,C1118,2025-06-28,Books,Programming Book,3,Worth it,The product is okay and works as expected.,neutral,No
+REV0477,C1084,2025-04-14,Fashion,Backpack,4,Review,"The product is good, not excellent, and delivery was late.",mixed,No
+REV0478,C1094,2025-12-18,Home,Mixer Grinder,2,My experience,Customer support did not respond to my complaint.,negative,No
+REV0479,C1047,2026-04-07,Beauty,Face Moisturizer,5,Satisfied,Battery life is impressive and performance is smooth.,positive,Yes
+REV0480,C1038,2025-07-20,Home,Air Fryer,3,Everyday use,The item matches the description. I have mixed feelings.,neutral,Yes
+REV0481,C1133,2026-10-08,Books,Programming Book,5,Satisfied,"Not bad at all, and the quality is better than expected.",positive,No
+REV0482,C1016,2025-06-17,Books,Programming Book,5,My experience,Excellent quality and works exactly as described.,positive,No
+REV0483,C1093,2026-01-05,Books,Programming Book,3,Satisfied,Average quality for the price. Nothing special.,neutral,No
+REV0484,C1167,2026-08-13,Fashion,Backpack,5,Issue with product,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0485,C1074,2026-09-21,Fashion,Running Shoes,5,Could be better,"Comfortable, useful, and worth the price.",positive,Yes
+REV0486,C1042,2025-03-23,Home,Mixer Grinder,2,Review,Uncomfortable to use and the material feels cheap.,negative,Yes
+REV0487,C1093,2026-04-01,Fashion,Backpack,5,Issue with product,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0488,C1180,2025-09-15,Beauty,Face Moisturizer,4,Issue with product,Excellent quality and works exactly as described.,positive,Yes
+REV0489,C1014,2026-07-16,Home,Air Fryer,4,Worth it,Very happy with this purchase. Delivery was quick.,positive,No
+REV0490,C1064,2025-08-23,Electronics,Smart Watch,4,Issue with product,Great value for money and easy to use.,positive,No
+REV0491,C1084,2026-01-01,Books,Programming Book,1,Everyday use,Poor value for money. I regret buying this.,negative,No
+REV0492,C1046,2026-07-07,Books,Programming Book,1,Satisfied,I do not recommend it because it is not reliable.,negative,No
+REV0493,C1079,2026-03-29,Beauty,Face Moisturizer,2,Review,"I like the features, but customer support was unhelpful.",mixed,No
+REV0494,C1121,2025-10-21,Fashion,Running Shoes,4,Satisfied,Excellent quality and works exactly as described.,positive,Yes
+REV0495,C1153,2025-10-27,Books,Programming Book,3,My experience,It does the basic job without any extra benefits.,neutral,Yes
+REV0496,C1097,2026-02-04,Fashion,Backpack,5,My experience,I would recommend this product to friends.,positive,No
+REV0497,C1069,2026-06-29,Electronics,Smart Watch,2,Could be better,Customer support did not respond to my complaint.,negative,Yes
+REV0498,C1070,2026-04-09,Electronics,Smart Watch,4,Issue with product,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0499,C1073,2025-04-15,Home,Air Fryer,4,Review,Great value for money and easy to use.,positive,Yes
+REV0500,C1056,2026-05-21,Books,Programming Book,1,Review,Customer support did not respond to my complaint.,negative,No
+REV0501,C1085,2025-02-02,Fashion,Running Shoes,3,Worth it,It does the basic job without any extra benefits.,neutral,Yes
+REV0502,C1065,2025-07-16,Electronics,Wireless Earbuds,4,Everyday use,I would recommend this product to friends.,positive,No
+REV0503,C1051,2025-02-04,Electronics,Wireless Earbuds,5,Could be better,The product feels premium and the packaging was neat.,positive,Yes
+REV0504,C1141,2025-02-13,Home,Air Fryer,1,Satisfied,The product does not work as advertised.,negative,Yes
+REV0505,C1029,2025-08-12,Fashion,Running Shoes,2,My experience,The product does not work as advertised.,negative,No
+REV0506,C1011,2025-01-10,Fashion,Backpack,4,Satisfied,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0507,C1176,2025-04-04,Home,Mixer Grinder,4,Satisfied,Very happy with this purchase. Delivery was quick.,positive,No
+REV0508,C1082,2025-08-27,Electronics,Wireless Earbuds,4,Satisfied,Great value for money and easy to use.,positive,No
+REV0509,C1065,2025-05-18,Books,Programming Book,2,Worth it,Very disappointing quality. It stopped working after two days.,negative,No
+REV0510,C1083,2025-12-23,Books,Programming Book,1,Issue with product,Battery drains quickly. Not recommended.,negative,No
+REV0511,C1068,2025-10-30,Fashion,Running Shoes,3,Satisfied,Delivery was on time and the product is ordinary.,neutral,No
+REV0512,C1159,2026-01-08,Books,Programming Book,4,My experience,I would recommend this product to friends.,positive,No
+REV0513,C1157,2025-06-07,Electronics,Smart Watch,2,Review,I received the wrong item and the return process is confusing.,negative,No
+REV0514,C1046,2025-05-13,Beauty,Face Moisturizer,1,Everyday use,Delivery was late and the box arrived damaged.,negative,Yes
+REV0515,C1169,2026-02-02,Home,Air Fryer,4,Could be better,The product feels premium and the packaging was neat.,positive,No
+REV0516,C1021,2026-05-19,Electronics,Wireless Earbuds,4,Could be better,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0517,C1136,2025-09-30,Fashion,Backpack,1,Worth it,I received the wrong item and the return process is confusing.,negative,Yes
+REV0518,C1137,2025-08-25,Fashion,Running Shoes,4,Could be better,"Not bad at all, and the quality is better than expected.",positive,Yes
+REV0519,C1164,2025-04-19,Home,Air Fryer,2,Satisfied,Customer support did not respond to my complaint.,negative,No
+REV0520,C1103,2026-07-18,Books,Programming Book,1,Satisfied,I received the wrong item and the return process is confusing.,negative,No
+REV0521,C1096,2025-11-29,Home,Mixer Grinder,2,Could be better,Battery drains quickly. Not recommended.,negative,No
+REV0522,C1102,2026-04-04,Fashion,Backpack,3,Worth it,"The price is fair, but the material feels cheap.",mixed,Yes
+REV0523,C1055,2025-08-16,Fashion,Running Shoes,1,Everyday use,Poor value for money. I regret buying this.,negative,No
+REV0524,C1092,2026-04-17,Electronics,Wireless Earbuds,3,My experience,The item matches the description. I have mixed feelings.,neutral,Yes
+REV0525,C1147,2025-04-05,Fashion,Running Shoes,4,Could be better,The product feels premium and the packaging was neat.,positive,Yes
+REV0526,C1025,2026-08-14,Electronics,Smart Watch,2,Satisfied,Battery drains quickly. Not recommended.,negative,No
+REV0527,C1112,2025-12-23,Electronics,Wireless Earbuds,1,Could be better,I received the wrong item and the return process is confusing.,negative,Yes
+REV0528,C1011,2026-06-21,Home,Air Fryer,1,Review,Very disappointing quality. It stopped working after two days.,negative,Yes
+REV0529,C1115,2026-02-07,Fashion,Backpack,1,Everyday use,Customer support did not respond to my complaint.,negative,Yes
+REV0530,C1122,2025-03-26,Home,Air Fryer,3,Satisfied,"The product is good, not excellent, and delivery was late.",mixed,Yes
+REV0531,C1144,2026-05-08,Beauty,Face Moisturizer,5,My experience,I would recommend this product to friends.,positive,No
+REV0532,C1111,2025-09-30,Beauty,Face Moisturizer,1,Review,Customer support did not respond to my complaint.,negative,Yes
+REV0533,C1089,2025-11-25,Electronics,Smart Watch,2,Satisfied,I do not recommend it because it is not reliable.,negative,Yes
+REV0534,C1060,2025-02-15,Fashion,Running Shoes,5,My experience,Battery life is impressive and performance is smooth.,positive,No
+REV0535,C1038,2026-09-28,Home,Mixer Grinder,1,Everyday use,Delivery was late and the box arrived damaged.,negative,No
+REV0536,C1085,2025-01-24,Electronics,Wireless Earbuds,5,My experience,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0537,C1097,2025-01-19,Home,Air Fryer,1,Satisfied,The product does not work as advertised.,negative,Yes
+REV0538,C1168,2026-04-22,Fashion,Running Shoes,4,Worth it,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0539,C1060,2026-01-31,Beauty,Face Moisturizer,1,Could be better,Uncomfortable to use and the material feels cheap.,negative,Yes
+REV0540,C1144,2026-04-14,Fashion,Backpack,1,Issue with product,Delivery was late and the box arrived damaged.,negative,Yes
+REV0541,C1005,2025-06-10,Electronics,Wireless Earbuds,5,Review,Customer support solved my issue quickly. Very satisfied.,positive,No
+REV0542,C1100,2025-09-21,Fashion,Backpack,1,Everyday use,Customer support did not respond to my complaint.,negative,Yes
+REV0543,C1134,2026-01-27,Fashion,Running Shoes,5,Issue with product,Battery life is impressive and performance is smooth.,positive,Yes
+REV0544,C1115,2025-12-04,Beauty,Face Moisturizer,5,Satisfied,Great value for money and easy to use.,positive,Yes
+REV0545,C1035,2026-06-21,Home,Air Fryer,2,Could be better,Customer support did not respond to my complaint.,negative,Yes
+REV0546,C1082,2025-01-31,Home,Mixer Grinder,4,Could be better,Very happy with this purchase. Delivery was quick.,positive,No
+REV0547,C1048,2025-05-15,Fashion,Running Shoes,1,Worth it,The product does not work as advertised.,negative,No
+REV0548,C1035,2026-05-04,Home,Air Fryer,2,Satisfied,Customer support did not respond to my complaint.,negative,No
+REV0549,C1050,2025-06-17,Fashion,Backpack,5,My experience,I would recommend this product to friends.,positive,Yes
+REV0550,C1053,2025-07-27,Beauty,Face Moisturizer,3,Worth it,The product is okay and works as expected.,neutral,Yes
+REV0551,C1104,2026-03-14,Books,Programming Book,2,Everyday use,"Good performance; however, the return policy is confusing.",mixed,Yes
+REV0552,C1011,2026-04-13,Beauty,Face Moisturizer,1,My experience,I received the wrong item and the return process is confusing.,negative,No
+REV0553,C1078,2026-02-12,Electronics,Wireless Earbuds,2,Everyday use,Very disappointing quality. It stopped working after two days.,negative,No
+REV0554,C1024,2026-04-08,Books,Programming Book,4,Issue with product,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0555,C1007,2026-04-07,Home,Mixer Grinder,5,My experience,"Not bad at all, and the quality is better than expected.",positive,No
+REV0556,C1032,2025-06-17,Home,Air Fryer,3,Worth it,Average quality for the price. Nothing special.,neutral,Yes
+REV0557,C1098,2026-07-18,Books,Programming Book,1,Worth it,Delivery was late and the box arrived damaged.,negative,Yes
+REV0558,C1108,2025-02-22,Fashion,Backpack,1,Review,Poor value for money. I regret buying this.,negative,No
+REV0559,C1160,2025-01-04,Books,Programming Book,4,Everyday use,Great value for money and easy to use.,positive,No
+REV0560,C1151,2025-08-11,Electronics,Wireless Earbuds,2,Issue with product,Battery drains quickly. Not recommended.,negative,No
+REV0561,C1159,2025-10-12,Books,Programming Book,4,Issue with product,Very happy with this purchase. Delivery was quick.,positive,Yes
+REV0562,C1171,2025-02-03,Electronics,Wireless Earbuds,5,Satisfied,Excellent quality and works exactly as described.,positive,No
+REV0563,C1173,2025-06-15,Fashion,Backpack,3,Review,The product is okay and works as expected.,neutral,Yes
+REV0564,C1095,2025-11-27,Books,Programming Book,1,Could be better,Uncomfortable to use and the material feels cheap.,negative,Yes
+REV0565,C1178,2025-05-05,Beauty,Face Moisturizer,3,Everyday use,Average quality for the price. Nothing special.,neutral,No
+REV0566,C1162,2026-08-09,Fashion,Backpack,1,Satisfied,Customer support did not respond to my complaint.,negative,Yes
+REV0567,C1148,2026-06-23,Books,Programming Book,2,Satisfied,The product does not work as advertised.,negative,No
+REV0568,C1060,2026-09-17,Home,Mixer Grinder,2,Issue with product,Battery drains quickly. Not recommended.,negative,No
+REV0569,C1158,2025-08-01,Home,Air Fryer,5,Could be better,Excellent quality and works exactly as described.,positive,No
+REV0570,C1066,2025-10-16,Electronics,Wireless Earbuds,4,Everyday use,The product feels premium and the packaging was neat.,positive,Yes
+REV0571,C1088,2025-12-08,Fashion,Running Shoes,4,Could be better,Battery life is impressive and performance is smooth.,positive,Yes
+REV0572,C1124,2025-05-20,Home,Mixer Grinder,5,My experience,Battery life is impressive and performance is smooth.,positive,No
+REV0573,C1143,2025-11-20,Fashion,Backpack,2,Satisfied,I received the wrong item and the return process is confusing.,negative,Yes
+REV0574,C1008,2025-10-15,Home,Air Fryer,1,Review,I do not recommend it because it is not reliable.,negative,No
+REV0575,C1009,2025-11-19,Home,Mixer Grinder,1,Review,I received the wrong item and the return process is confusing.,negative,No
+REV0576,C1135,2025-08-10,Electronics,Smart Watch,2,Review,Customer support did not respond to my complaint.,negative,Yes
+REV0577,C1007,2026-06-03,Electronics,Smart Watch,4,Everyday use,Excellent quality and works exactly as described.,positive,No
+REV0578,C1133,2025-04-11,Home,Mixer Grinder,5,Issue with product,"Comfortable, useful, and worth the price.",positive,Yes
+REV0579,C1012,2025-11-15,Home,Air Fryer,1,Issue with product,Battery drains quickly. Not recommended.,negative,Yes
+REV0580,C1164,2025-11-16,Fashion,Backpack,4,My experience,"Good design, but the battery drains too quickly.",mixed,No
+REV0581,C1070,2025-05-01,Home,Air Fryer,5,My experience,Customer support solved my issue quickly. Very satisfied.,positive,Yes
+REV0582,C1070,2025-11-23,Fashion,Running Shoes,4,My experience,Very happy with this purchase. Delivery was quick.,positive,No
+REV0583,C1008,2025-05-14,Home,Air Fryer,2,Could be better,"The product is good, not excellent, and delivery was late.",mixed,Yes
+REV0584,C1152,2026-09-03,Electronics,Smart Watch,5,Issue with product,Very happy with this purchase. Delivery was quick.,positive,No
+REV0585,C1024,2025-05-15,Fashion,Backpack,4,Everyday use,The product feels premium and the packaging was neat.,positive,No
+REV0586,C1158,2025-05-28,Electronics,Smart Watch,1,Review,Battery drains quickly. Not recommended.,negative,No
+REV0587,C1017,2025-01-31,Beauty,Face Moisturizer,5,Could be better,Battery life is impressive and performance is smooth.,positive,Yes
+REV0588,C1033,2026-08-12,Fashion,Backpack,2,Satisfied,Poor value for money. I regret buying this.,negative,Yes
+REV0589,C1119,2026-06-30,Beauty,Face Moisturizer,3,Could be better,Average quality for the price. Nothing special.,neutral,No
+REV0590,C1054,2025-12-15,Home,Air Fryer,2,Everyday use,Poor value for money. I regret buying this.,negative,No
+REV0591,C1147,2025-03-21,Beauty,Face Moisturizer,1,Everyday use,Uncomfortable to use and the material feels cheap.,negative,No
+REV0592,C1079,2025-06-30,Electronics,Smart Watch,5,Could be better,"Not bad at all, and the quality is better than expected.",positive,Yes
+REV0593,C1024,2025-03-04,Electronics,Smart Watch,2,My experience,I received the wrong item and the return process is confusing.,negative,Yes
+REV0594,C1148,2026-09-23,Electronics,Wireless Earbuds,2,Could be better,Poor value for money. I regret buying this.,negative,Yes
+REV0595,C1023,2025-12-19,Home,Air Fryer,2,Satisfied,Uncomfortable to use and the material feels cheap.,negative,Yes
+REV0596,C1001,2025-02-24,Beauty,Face Moisturizer,3,Issue with product,The item matches the description. I have mixed feelings.,neutral,No
+REV0597,C1101,2026-08-28,Electronics,Smart Watch,3,Issue with product,The product is okay and works as expected.,neutral,No
+REV0598,C1049,2025-05-23,Beauty,Face Moisturizer,4,Satisfied,I would recommend this product to friends.,positive,No
+REV0599,C1019,2025-01-12,Fashion,Backpack,3,Issue with product,Delivery was on time and the product is ordinary.,neutral,Yes
+REV0600,C1165,2025-05-21,Home,Mixer Grinder,1,Everyday use,Battery drains quickly. Not recommended.,negative,No
