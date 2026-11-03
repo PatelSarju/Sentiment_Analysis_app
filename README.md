@@ -36,13 +36,14 @@ Sentiment Analysis/
 
 ## 🚀 How to Run
 
-## 📦 Install the required libraries
+# 📦 Install the required libraries
 - pip install streamlit pandas
 
-## ▶️ Run the application
+# ▶️ Run the application
 - python -m streamlit run app.py
 
 ## 🧪 Example
+
 # 📝 Review:
 - This product is excellent and very reliable.
 
