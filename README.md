@@ -1,4 +1,4 @@
-# 💬 Sentiment Analysis
+## 💬 Sentiment Analysis
 
 A simple **Streamlit NLP application** that predicts the sentiment of a customer review using a rule-based approach.
 
