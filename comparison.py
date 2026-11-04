@@ -2,8 +2,8 @@ import joblib
 import pandas as pd
 import __main__
 
-from Vectorization.bow_model import clean_text, add_pos_tags
-from Vectorization.word2vec_model import Word2VecTransformer
+from bow_model import clean_text, add_pos_tags
+from word2vec_model import Word2VecTransformer
 
 
 # Make the saved Word2Vec model recognize its transformer
